@@ -10,13 +10,13 @@
 </p>
 
 <p>
-    <sub><strong>Socials</strong></sub><br>
-    🐷<sub>Discord:</sub> <code>astralreal</code>
+    💬<sub><strong>Socials</strong></sub><br>
+&nbsp;🐷<sub>Discord:</sub> <code>astralreal</code>
     
 </p>
 
 <p>
-    <sub><strong>Projects</strong></sub><br>
+    🧰<sub><strong>Projects</strong></sub><br>
     &nbsp; 📜<sub>Looker:</sub> <code>super simple uni-header C logger</code><br>
     &nbsp; 📕<sub>Exploitation Dictionarium:</sub> <code>a documentation of various hacking/explotation method terms (for self-learning)</code>
 </p>
