@@ -18,7 +18,7 @@
 <p>
     🧰<sub><strong>Projects</strong></sub><br>
     &nbsp; 📜<sub>Looker:</sub> <code>super simple uni-header C logger</code><br>
-    &nbsp; 📕<sub>Exploitation Dictionarium:</sub> <code>a documentation of various hacking/exploitation terms (for self-learning)</code>
+    &nbsp; 📕<sub>Exploitation Dictionarium:</sub> <code>a glossary-like documentation of various hacking/exploitation terms (for self-learning)</code>
 </p>
 
 #  🤓☝️<sub><strong>Tech Stack</strong></sub></br>
