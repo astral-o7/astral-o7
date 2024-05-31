@@ -17,12 +17,11 @@
 
 <p>
     🧰<sub><strong>Projects</strong></sub><br>
-    &nbsp; 📜<sub>Looker:</sub> <code>super simple uni-header C logging library</code><br>
+    &nbsp; 📌<sub>Pin:</sub> <code>super simple uni-header C logging library</code><br>
     &nbsp; 📕<sub>Exploitation Dictionarium:</sub> <code>a glossary-like documentation of terms regarding offensive dev/exploitation (for self-learning)</code>
 </p>
 
 #  🤓☝️<sub><strong>Tech Stack</strong></sub></br>
   [![](https://skillicons.dev/icons?i=python,c,cpp,rust,powershell,windows,neovim,vscode,visualstudio)](https://skillicons.dev)
-
 
 no blog yet sozz :(
