@@ -2,7 +2,7 @@
 <p>
     ❓<sub><strong>About Me:</strong></sub>
     <pre>
-        upcoming collegiate high school student interested in:
+        upcoming collegiate academy student interested in:
         . binary exploitation
         . reverse engineering
         . OS fundamentals
