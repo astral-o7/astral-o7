@@ -17,7 +17,7 @@
 
 <p>
     🧰<sub><strong>Recent Projects</strong></sub><br>
-    &nbsp; 📌<sub>Pin:</sub> <code>C-based logging library with a huge emphasis on customization, flexibility, and convenience</code><br>
+    &nbsp; 👻<sub>Soulstice</sub> <code>a small but powerful shell focused around making bin. exploitation easier</code><br>
     &nbsp; 📕<sub>Exploitation Dictionarium:</sub> <code>a glossary-like documentation of terms regarding offensive dev/exploitation (for self-learning)</code>
 </p>
 
