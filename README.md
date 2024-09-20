@@ -17,8 +17,8 @@
 
 <p>
     🧰<sub><strong>Recent Projects</strong></sub><br>
-    &nbsp; ❄️<sub>Frost</sub> <code>a small but powerful shell focused around making bin. exploitation easier</code><br>
-    &nbsp; 📕<sub>Exploitation Dictionarium:</sub> <code>a glossary-like documentation of terms regarding offensive dev/exploitation (for self-learning)</code>
+    &nbsp; 🚩<sub>cPwn</sub> <code>exploit framework written in C</code><br>
+    &nbsp; 🎀<sub>LaceOS:</sub> <code>non-serious & basic OS made for fun</code>
 </p>
 
 #  🤓☝️<sub><strong>Tech Stack</strong></sub></br>
