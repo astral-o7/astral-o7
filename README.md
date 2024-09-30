@@ -18,7 +18,7 @@
 <p>
     🧰<sub><strong>Recent Projects</strong></sub><br>
     &nbsp; 🚩<sub>cPwn</sub> <code>exploit framework written in C</code><br>
-    &nbsp; 🎀<sub>LaceOS:</sub> <code>non-serious & basic OS made for fun</code>
+    &nbsp; 🎀<sub>LaceOS:</sub> <code>lightweight x86_64 hobby OS built on an asynchronous hybrid kernel</code>
 </p>
 
 #  🤓☝️<sub><strong>Tech Stack</strong></sub></br>
