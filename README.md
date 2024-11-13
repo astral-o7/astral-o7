@@ -1,27 +1,23 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1950&pause=950&color=8900F7&width=435&lines=welcome+(back)%2C+astral+here;asm+intel+syntax+%3E%3E%3E%3E%3E;me+after+never+using+IDA+pro;search+%22how+to+mail+bomb%22+4+free+rbx;onika+burgers;WATCH+MOB+PSYCHO+;one+fissUH%2C+two+fiss..uh.;here+astral+(back)%2C+welcome)](https://git.io/typing-svg)
-<p>
-    ❓<sub><strong>About Me:</strong></sub>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DinaRemasterII&size=22&duration=3000&pause=1000&color=D79E6F&background=000000&center=true&width=435&lines=mood%3A+dying;teleporting+bread+rn;mama+a+faulty+device+driver+behind+U;throwing+binaries+at+PEDA;peta+how+are+you+doing+that+;stream+SWV;rotating+vortexes+;on+everyone+intel+is+better;one+fiss..+two+fiss..+uh;death+to+all+stripped+binaries+)](https://git.io/typing-svg)
+![2024_11_12_11h_Kleki](https://github.com/user-attachments/assets/181096b1-d195-4fb1-ac52-2c323d00dc7e)
+
+</p>
+ ❓<sub><strong>About:</strong></sub>
     <pre>
-        early college highschool freshman interested in:
+        a highschool freshman interested in:
         . binary exploitation
         . reverse engineering
         . red teaming
-        (and just cybersecurity-related topics in general)</pre>
-</p>
-
-<p>
-    💬<sub><strong>Socials</strong></sub><br>
-&nbsp;🐷<sub>Discord:</sub> <code>astralreal</code>
-    
+        (and cybersecurity-related topics in general)</pre>
 </p>
 
 <p>
     🧰<sub><strong>Recent Projects</strong></sub><br>
-    &nbsp; 🚩<sub>cPwn</sub> <code>exploit framework written in C</code><br>
+    &nbsp; 🌿💜<sub>Wisteria:</sub> <code>injection framework in C</code><br>
     &nbsp; 🎀<sub>LaceOS:</sub> <code>lightweight x86_64 hobby OS built on an asynchronous hybrid kernel</code>
 </p>
 
 #  🤓☝️<sub><strong>Tech Stack</strong></sub></br>
-  [![](https://skillicons.dev/icons?i=python,c,cpp,rust,powershell,windows,neovim,vscode,visualstudio)](https://skillicons.dev)
-
-no blog yet sozz :(
+  [![](https://skillicons.dev/icons?i=python,c,cpp,cs,rust,powershell,bash,windows,kali,neovim,vscode,visualstudio,git,github)](https://skillicons.dev)
+# ✍️ Blog</sub></br>
+  uhh coming soon i swear on my life fr
