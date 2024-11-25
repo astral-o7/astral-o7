@@ -20,4 +20,4 @@
 #  🤓☝️<sub><strong>Tech Stack</strong></sub></br>
   [![](https://skillicons.dev/icons?i=python,c,cpp,cs,rust,powershell,bash,windows,kali,neovim,vscode,visualstudio,git,github)](https://skillicons.dev)
 # ✍️ Blog</sub></br>
-  uhh coming soon i swear on my life fr
+https://astrals-observatory.gitbook.io/astral.observatory/ (super WIP)
