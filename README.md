@@ -13,7 +13,7 @@
 
 <p>
     🧰<sub><strong>Recent Projects</strong></sub><br>
-    &nbsp; 🌿💜<sub>Wisteria:</sub> <code>windows injection framework in C++</code><br>
+    &nbsp; 🌿💜<sub>Wisteria:</sub> <code>windows injection library in C++</code><br>
     &nbsp; 🎀<sub>LaceOS:</sub> <code>lightweight x86_64 hobby OS built on an asynchronous hybrid kernel</code>
 </p>
 
