@@ -15,7 +15,7 @@
     🧰<sub><strong>Recent Projects</strong></sub><br>
     &nbsp; 🌿💜<sub>Wisteria:</sub> <code>windows injection library in C++</code><br>
     &nbsp; 🖤🎷<sub>Sade:</sub> <code>windows kernel-mode driver in C</code><br>
-    &nbsp; 🎀<sub>LaceOS:</sub> <code>lightweight x86_64 hobby OS built on an asynchronous microkernel</code>
+    &nbsp; 🎀<sub>LaceOS:</sub> <code>lightweight x86_64 hobby OS built on an asynchronous hybrid kernel</code>
 </p>
 
 #  🤓☝️<sub><strong>Tech Stack</strong></sub></br>
